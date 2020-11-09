@@ -15,7 +15,9 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <code className={styles.code}>We are a rad group of developers making financial software</code>
+          <code className={styles.code}>
+						We are a rad group of developers making financial software
+					</code>
         </p>
 
         <div className={styles.grid}>
